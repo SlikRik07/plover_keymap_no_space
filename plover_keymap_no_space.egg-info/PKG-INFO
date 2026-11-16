@@ -1,4 +1,4 @@
 Metadata-Version: 2.4
-Name: plover-kbd-attach
+Name: plover_keymap_no_space
 Version: 0.1.0
 Requires-Dist: plover>=4.0.0.dev10
