@@ -1,0 +1,2 @@
+[plover.machine]
+Keyboard Attach = plover_kbd_attach.machine:KeyboardAttach

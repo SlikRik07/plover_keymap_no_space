@@ -1,0 +1,9 @@
+pyproject.toml
+plover_kbd_attach/__init__.py
+plover_kbd_attach/machine.py
+plover_kbd_attach.egg-info/PKG-INFO
+plover_kbd_attach.egg-info/SOURCES.txt
+plover_kbd_attach.egg-info/dependency_links.txt
+plover_kbd_attach.egg-info/entry_points.txt
+plover_kbd_attach.egg-info/requires.txt
+plover_kbd_attach.egg-info/top_level.txt
