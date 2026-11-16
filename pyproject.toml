@@ -3,9 +3,6 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "plover-kbd-attach"
+name = "plover_keymap_no_space"
 version = "0.1.0"
 dependencies = ["plover>=4.0.0.dev10"]
-
-[project.entry-points."plover.machine"]
-"Keyboard Attach" = "plover_kbd_attach.machine:KeyboardAttach"
