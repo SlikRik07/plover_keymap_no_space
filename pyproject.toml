@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "plover-keymap-no-space"
-version = "0.1.0"
+version = "0.1.1"
 
 [project.entry-points."plover.extension"]
 keymap_no_space = "plover_keymap_no_space.machine:NoSpace"
