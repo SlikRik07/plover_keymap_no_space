@@ -50,3 +50,14 @@ def _set_mappings(self, mappings):
         _orig_set_mappings(self, mappings)
 
 Keymap.set_mappings = _set_mappings
+
+# Plugins require a start point (I think)
+class NoSpace:
+    def __init__(self, engine):
+        pass
+
+    def start(self):
+        pass
+
+    def stop(self):
+        pass
